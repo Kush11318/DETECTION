@@ -5,14 +5,6 @@
 
 ---
 
-## 👥 Team Members & Roles
-*   **Kushagra Sharma (Team Leader)**: Pipeline Orchestration & Optimization, Backend Integration
-*   **Harsh Joshi (Team Member)**: AI Classifier Development, XGBoost Modeling
-*   **Nandini Gupta (Team Member)**: Feature Engineering, Physical Mathematical Formulas
-*   **Kushagra Takjhare (Team Member)**: UI/UX Engineering & Interactive Visualization
-
----
-
 ## 🌌 Project Overview
 Voyager 3 is an end-to-end, scientifically calibrated exoplanet detection platform designed to automate the discovery of transiting exoplanets from raw NASA TESS (Transiting Exoplanet Survey Satellite) FITS files. 
 
